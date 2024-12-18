@@ -1,3 +1,4 @@
+![Logo](images/About)
 # ft_transcendence
 
 ft_transcendence is a full-stack web application leveraging microservice architecture, built to provide a seamless gaming and social experience. The project is containerized with Docker, integrating Django for the back-end, PostgreSQL for data management, and WebSockets for real-time communication.
@@ -12,7 +13,7 @@ ft_transcendence is a full-stack web application leveraging microservice archite
 - Deployed services efficiently in a Dockerized environment.
 
 ## Technologies Used
-- **Frameworks**: Django, Django Channels
+- **Frameworks**: Django
 - **Database**: PostgreSQL
 - **Containerization**: Docker
 - **Server**: Nginx (as a reverse proxy)
