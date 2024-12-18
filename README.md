@@ -50,7 +50,7 @@ As the **Back-End Developer**, my key tasks included:
    - Enhanced security with Two-Factor Authentication options.
    - Used JSON Web Tokens (JWT) for secure session management.
 
-   ** Team **
+8. **Team**:
       - Hallal Khalifa: @khallal42
       - Me: @Hamz2001
       - Mohcine Majdoubi: @Happy4mou
