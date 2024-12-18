@@ -24,18 +24,28 @@ As the **Back-End Developer**, my key tasks included:
 1. **Microservice Architecture**:
    - Designed and implemented modular back-end services for user management.
 
-2. **Database Management**:
+2. **Standard User Management**:
+   - Secure user registration and authentication.
+   - Unique display names and avatar uploads.
+   - Friend system with online status tracking.
+
+3. **Database Management**:
    - Utilized Django ORM to structure and query the PostgreSQL database efficiently.
    - Ensured database consistency across services.
 
-3. **Friend Notifications**:
+4. **Friend Notifications**:
    - Implemented features for sending, accepting, refusing, and removing friend requests.
    - Ensured real-time updates for friend notifications using WebSockets.
-
-4. **User Authentication**:
-   - Implemented JWT-based authentication and 2FA for enhanced security.
-   - Integrated OAuth 42- and Google for single sign-on (SSO).
 
 5. **Containerization**:
    - Built Docker images for individual services.
    - Configured Docker Compose for multi-container orchestration.
+
+6. **Security**:
+   - HTTPS enforced for secure communication.
+   - Protection against SQL injection and XSS attacks.
+   - Password hashing and sensitive data management using .env files.
+
+7. **Two-Factor Authentication (2FA) and JWT**:
+   - Enhanced security with Two-Factor Authentication options.
+   - Used JSON Web Tokens (JWT) for secure session management.
