@@ -49,3 +49,10 @@ As the **Back-End Developer**, my key tasks included:
 7. **Two-Factor Authentication (2FA) and JWT**:
    - Enhanced security with Two-Factor Authentication options.
    - Used JSON Web Tokens (JWT) for secure session management.
+
+   ** Team **
+      - Hallal Khalifa: @khallal42
+      - Me: @Hamz2001
+      - Mohcine Majdoubi: @Happy4mou
+      - Mouad Ajmani: @majmani1
+      - MOURAD EL MARSSI : @Mel-Marssi
