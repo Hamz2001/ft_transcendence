@@ -34,7 +34,7 @@ As the **Back-End Developer**, my key tasks included:
 
 4. **User Authentication**:
    - Implemented JWT-based authentication and 2FA for enhanced security.
-   - Integrated OAuth 42 for single sign-on (SSO).
+   - Integrated OAuth 42- and Google for single sign-on (SSO).
 
 5. **Containerization**:
    - Built Docker images for individual services.
