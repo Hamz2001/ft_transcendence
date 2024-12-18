@@ -8,6 +8,8 @@ ft_transcendence is a full-stack web application leveraging microservice archite
 - User authentication and authorization, including Two-Factor Authentication (2FA).
 - Dynamic front-end built with HTML, CSS, JavaScript, and Bootstrap.
 - Scalable microservices for modular functionality.
+- Configured Nginx as a reverse proxy for load balancing and routing.
+- Deployed services efficiently in a Dockerized environment.
 
 ## Technologies Used
 - **Frameworks**: Django, Django Channels
@@ -26,9 +28,9 @@ As the **Back-End Developer**, my key tasks included:
    - Utilized Django ORM to structure and query the PostgreSQL database efficiently.
    - Ensured database consistency across services.
 
-3. **WebSocket Integration**:
-   - Developed real-time messaging and notification systems using Django Channels.
-   - Established socket connections for in-game communication.
+3. **Friend Notifications**:
+   - Implemented features for sending, accepting, refusing, and removing friend requests.
+   - Ensured real-time updates for friend notifications using WebSockets.
 
 4. **User Authentication**:
    - Implemented JWT-based authentication and 2FA for enhanced security.
@@ -37,19 +39,3 @@ As the **Back-End Developer**, my key tasks included:
 5. **Containerization**:
    - Built Docker images for individual services.
    - Configured Docker Compose for multi-container orchestration.
-
-6. **Deployment**:
-   - Configured Nginx as a reverse proxy for load balancing and routing.
-   - Deployed services efficiently in a Dockerized environment.
-
-7. **Game Logic**:
-   - Supported Canvas API integration for real-time game interactions.
-
-## Contact
-For more details or questions, feel free to reach out:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
-Feel free to customize the contact section and repository link to match your personal details!
