@@ -22,7 +22,7 @@ ft_transcendence is a full-stack web application leveraging microservice archite
 ## Responsibilities
 As the **Back-End Developer**, my key tasks included:
 1. **Microservice Architecture**:
-   - Designed and implemented modular back-end services for chat, game logic, and user management.
+   - Designed and implemented modular back-end services for user management.
 
 2. **Database Management**:
    - Utilized Django ORM to structure and query the PostgreSQL database efficiently.
